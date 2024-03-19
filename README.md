@@ -1,2 +1,2 @@
 # demo
-This is my first file<br> Authour Rajanbir Singh
+This is my first file<br> Author Rajanbir Singh
